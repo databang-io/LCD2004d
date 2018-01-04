@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /run/user/1000/gvfs/sftp:host=10.0.1.147,user=pi/home/pi/LCD2004d

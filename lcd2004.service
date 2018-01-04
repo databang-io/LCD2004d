@@ -1,0 +1,9 @@
+[Unit]
+Description=LCD2004 keypad Virtual Keyboard Daemon V 1.0 
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/LCD2004
+
+[Install]
+WantedBy=multi-user.target
